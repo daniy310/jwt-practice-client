@@ -1,4 +1,4 @@
-# 🤖  Jwt Practice Client
+# 🤖  JWT Practice Client
 
 ![image](https://github.com/daniy310/jwt-practice-client/assets/68704220/38ce7fe9-99ab-459a-a290-dd4b4a6ed65f)
 ![image](https://github.com/daniy310/jwt-practice-client/assets/68704220/1e894a7f-6ac2-4a02-b783-b142e79293a6)
